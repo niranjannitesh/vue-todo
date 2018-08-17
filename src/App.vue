@@ -20,6 +20,7 @@ export default {
 <style>
 * {
   box-sizing: border-box;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
   -moz-osx-font-smoothing: grayscale;
