@@ -47,8 +47,9 @@ body {
 }
 
 #app {
-  width: 500px;
+  max-width: 510px;
   margin: 50px auto;
+  padding: 0 10px;
 }
 
 img {
