@@ -1,6 +1,6 @@
 # Vue Todo
 
-A Simple Todo app built with vue.js
+A Simple Todo app built with [vue.js](https://vuejs.org/)
 
 ![alt text](screenshot.png "Screenshot")
 
